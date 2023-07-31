@@ -1,4 +1,8 @@
-let size = 100;
-let doubleSize = size * 2;
-let minSize = (doubleSize * 2) - (size / 2);
-document.write(minSize);
+// adds pop up of 'Hello world'
+alert('Hello world');
+
+let favoriteFood = ramen;
+let dislikedFood = canned spinach;
+
+document.write (favoriteFood);
+document.write (dislikedFood);
